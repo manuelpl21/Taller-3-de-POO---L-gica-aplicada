@@ -1,0 +1,14 @@
+C:\Users\USUARIO\Escritorio\LogicConcepts\Hourglass\bin\Debug\net8.0\Hourglass.exe
+C:\Users\USUARIO\Escritorio\LogicConcepts\Hourglass\bin\Debug\net8.0\Hourglass.deps.json
+C:\Users\USUARIO\Escritorio\LogicConcepts\Hourglass\bin\Debug\net8.0\Hourglass.runtimeconfig.json
+C:\Users\USUARIO\Escritorio\LogicConcepts\Hourglass\bin\Debug\net8.0\Hourglass.dll
+C:\Users\USUARIO\Escritorio\LogicConcepts\Hourglass\bin\Debug\net8.0\Hourglass.pdb
+C:\Users\USUARIO\Escritorio\LogicConcepts\Hourglass\obj\Debug\net8.0\Hourglass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Escritorio\LogicConcepts\Hourglass\obj\Debug\net8.0\Hourglass.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Escritorio\LogicConcepts\Hourglass\obj\Debug\net8.0\Hourglass.AssemblyInfo.cs
+C:\Users\USUARIO\Escritorio\LogicConcepts\Hourglass\obj\Debug\net8.0\Hourglass.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Escritorio\LogicConcepts\Hourglass\obj\Debug\net8.0\Hourglass.dll
+C:\Users\USUARIO\Escritorio\LogicConcepts\Hourglass\obj\Debug\net8.0\refint\Hourglass.dll
+C:\Users\USUARIO\Escritorio\LogicConcepts\Hourglass\obj\Debug\net8.0\Hourglass.pdb
+C:\Users\USUARIO\Escritorio\LogicConcepts\Hourglass\obj\Debug\net8.0\Hourglass.genruntimeconfig.cache
+C:\Users\USUARIO\Escritorio\LogicConcepts\Hourglass\obj\Debug\net8.0\ref\Hourglass.dll

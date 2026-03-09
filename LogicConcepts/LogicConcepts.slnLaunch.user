@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "LowerTriangularOfMatrix\\LowerTriangularOfMatrix.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Hourglass\\Hourglass.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
